@@ -1,0 +1,6 @@
+Language: Python
+LLM: Google Gemini
+Vector Database: FAISS
+PDF Processing: PyPDF2
+Embeddings: LLM-based / Sentence embeddings
+Environment: Jupyter Notebook
